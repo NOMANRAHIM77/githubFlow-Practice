@@ -1,2 +1,7 @@
 console.log("world")
-console.log("feature branch")
+
+function add(x,y){
+    return x+y
+}
+
+add(3,3)
